@@ -1,0 +1,81 @@
+.kawonav {
+    width: 100%;
+    height: 110px;
+    border-radius: 0;
+    border: none;
+    margin-top: -530px;
+    background-color: transparent;
+}
+
+.navbar-brand > img {
+    height: 100px;
+    width: 200px;
+    margin-left: 50px;
+    margin-top: -5px;
+}
+
+.navdiv3 {
+    margin-top: 25px;
+    padding-right: 100px;
+}
+
+.navdiv3 > .navbar-nav > li > a{
+    color: orangered;
+}
+
+.bgimg {
+    margin-top: -20px;
+    width: 100%;
+    height: 550px;
+}
+
+#foot {
+    width: 100%;
+    height: 95px;
+    background-color:rgb(68, 5, 5);
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    margin-top: 190px;
+}
+
+.center-items {
+    text-align: center;
+}
+
+.center-items > h1 {
+    color: white;
+    font-size: 50px;
+}
+
+.center-items > p {
+    color: white;
+    font-size: 30px;
+}
+
+.center-items > input[type=button] {
+    background-color: turquoise;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+}
+.soc-sites {
+    float: right;
+    padding-right: 140px;
+}
+
+#foot > p {
+    color: white;
+    padding-left: 150px;
+}
+
+.soc-logos {
+    margin-left: 50px;
+}
+
+#link1 {
+    border: 2px solid orangered;
+}

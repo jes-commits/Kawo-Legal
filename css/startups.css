@@ -1,0 +1,89 @@
+.kawonav {
+    width: 100%;
+    height: 110px;
+    border-radius: 0;
+    border: none;
+    background-color: rgb(68, 5, 5);
+}
+.navbar-brand > img {
+    height: 100px;
+    width: 200px;
+    margin-left: 50px;
+    margin-top: -5px;
+}
+
+.navdiv3 {
+    margin-top: 25px;
+    padding-right: 100px;
+}
+
+.navdiv3 > .navbar-nav > li > a{
+    color: orangered;
+}
+
+#foot {
+    width: 100%;
+    height: 95px;
+    background-color:rgb(68, 5, 5);
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    margin-top: 100px;
+}
+
+#foot > p {
+    color: white;
+    padding-left: 150px;
+}
+
+.soc-sites {
+    float: right;
+    padding-right: 140px;
+}
+
+.soc-logos {
+    margin-left: 50px;
+}
+
+#link2 {
+    border: 2px solid orangered;
+}
+
+input[type="text"] {
+    width: 85%;
+    height: 35px;
+    border: 1px solid gray;
+    border-radius: 4px;
+    padding-left: 10px;
+}
+
+#s-button {
+    width: 100px;
+    margin-left: -7px;
+    height: 37px;
+    border: none;
+    border-radius: 2px;
+    background-color: blue;
+    color: cornsilk;
+}
+
+.startup-img {
+    height: 80%;
+    width: 90%;
+}
+
+.lower {
+    margin-top: 50px;
+}
+
+.raise-up {
+    margin-top: -12px;
+}
+
+.raise-up > h3 {
+    color: blue;
+}
+
+h3 > a:hover {
+    color: brown;
+}
