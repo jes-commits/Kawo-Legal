@@ -53,7 +53,7 @@
     font-size: 30px;
 }
 
-.center-items > input[type=button] {
+.center-items > a > input[type=button] {
     background-color: turquoise;
     color: white;
     border: none;
